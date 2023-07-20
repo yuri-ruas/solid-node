@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@rocketseat/eslint-config": "2.1.0",
     "@types/node": "20.4.2",
+    "eslint": "8.45.0",
     "tsup": "7.1.0",
     "tsx": "3.12.7",
     "typescript": "5.1.6"
